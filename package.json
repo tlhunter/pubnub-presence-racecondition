@@ -7,7 +7,7 @@
 
 	"dependencies": {
 		"express": "4.4.x",
-		"pubnub": "3.6.x",
+		"pubnub": "3.6.6",
 		"uuid": "1.4.x",
 		"request": "2.36.x"
 	}
