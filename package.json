@@ -1,0 +1,14 @@
+{
+	"name": "pubnub-resence-error",
+	"private": true,
+	"version": "0.0.1",
+	"description": "Presence notification doesn't always fire",
+	"author": "Thomas Hunter <thomas.hunter@dena.jp>",
+
+	"dependencies": {
+		"express": "4.4.x",
+		"pubnub": "3.6.x",
+		"uuid": "1.4.x",
+		"request": "2.36.x"
+	}
+}
